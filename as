@@ -1,9 +1,9 @@
 import penjumlahan as tampil
 
 def main():
-  tampil.tambah(5,2)
-  tampil.kurang(10,3)
-  tampil.kali(5,6)
+  print("tambah")
+  print("kurang")
+  print("kali")
   
 if __name__ == "__main__":
    main()
