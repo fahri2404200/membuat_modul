@@ -1,0 +1,9 @@
+import Matematika.penjumlahan
+
+def main():
+    print("tambah")
+    print("kali\t: ",kali)
+    print("kurang\t:,kurang)
+    
+if __name__ == "__main__":
+   main()
