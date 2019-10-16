@@ -3,9 +3,9 @@ from penjumlahan import kali
 def main():
 kali(4,6)
  
- print(tambah)
- print(kurang)
- print(kali)
+ print("tambah")
+ print("kurang\t:",k)
+ print("kali\t:",kali)
  
 if __name__ == "__main__":
    main()
