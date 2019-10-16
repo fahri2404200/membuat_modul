@@ -1,0 +1,8 @@
+import penjumlahan
+def main():
+ penjumlahan.tambah(5,2)
+ penjumlahan.kurang(10,3)
+ penjumlahan.kali(5,6)
+
+if __name__ == "__main__":
+   main()
